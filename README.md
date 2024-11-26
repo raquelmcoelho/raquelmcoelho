@@ -5,3 +5,4 @@ Sempre fui bastante interessada por Lógica e isso despertou curiosidade e gosto
 
 Graças a curiosidade em aprender mais de programação tive a oportunidade de iniciar minha bolsa no Laboratório de Pesquisa Aplicada e Desenvolvimento em Automação (LAPADA) onde estou trabalhando com desenvolvimento desktop de software para embarcados com C++, Python e QT5.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelmcoelho&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
