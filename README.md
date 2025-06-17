@@ -40,5 +40,9 @@ Je suis passionnée par la technologie et la programmation depuis 2018, lorsque 
 
 ![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelmcoelho&show_icons=true&bg_color=00000000)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelmcoelho&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![snake gif](https://github.com/raquelmcoelho/raquelmcoelho/blob/output/github-contribution-grid-snake.gif)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg">
+  <img src="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
+</picture>
 
