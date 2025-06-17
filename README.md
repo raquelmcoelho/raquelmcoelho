@@ -1,6 +1,6 @@
 ## Raquel Maciel Coelho de Sousa
 
-** AI & Cybersecurity Student and Developer | [LinkedIn](https://www.linkedin.com/in/raquelmcoelhodesousa/) **
+**AI & Cybersecurity Student and Developer | [LinkedIn](https://www.linkedin.com/in/raquelmcoelhodesousa/)**
 
 ---
 
