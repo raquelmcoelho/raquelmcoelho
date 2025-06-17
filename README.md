@@ -31,9 +31,6 @@ Feel free to explore my repositories and connect with me for collaborations or d
 
 ![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelmcoelho&show_icons=true&bg_color=00000000)  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelmcoelho&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg">
-  <img src="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg" alt="GitHub Snake">
-</picture>
+![GitHub Snake Light](https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+![GitHub Snake Dark](https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
