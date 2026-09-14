@@ -1,36 +1,46 @@
 ## Raquel Maciel Coelho de Sousa
 
-**AI & Cybersecurity Student and Developer | [LinkedIn](https://www.linkedin.com/in/raquelmcoelhodesousa/)**
+**Computer Engineering Undergrad (IFCE / ENSICAEN) | Edge AI, Machine Learning & Embedded Systems**  
+[![Email](https://img.shields.io/badge/Email-raquelmcoelhodesousa%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:raquelmcoelhodesousa@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raquelmcoelhodesousa-0A66C2?style=flat&logo=linkedin)](https://www.linkedin.com/in/raquelmcoelhodesousa/)
+[![YouTube](https://img.shields.io/badge/YouTube-raquelmaciel5096-D14836?style=flat&logo=youtube&logoColor=red)](https://www.youtube.com/@raquelmaciel5096)
 
 ---
 
-I am a dedicated and passionate software engineer with a strong foundation in computer science and a keen interest in Artificial Intelligence and Cybersecurity. Currently, I am an AI Intern at Orange, within the Architecture for Networks and Cloud team, where I am applying and expanding my knowledge in cutting-edge AI solutions.
+### 👩‍💻 About Me
 
-My academic journey includes a Computer Engineering degree program at the École nationale supérieure d'ingénieurs de Caen (ENSICAEN) in France, specializing in Cybersecurity & Artificial Intelligence, and prior studies at the Instituto Federal de Educação, Ciência e Tecnologia (IFCE) in Brazil. This international experience has provided me with a broad perspective and a versatile skill set.
+I am a final-year Computer Engineering undergraduate at the **Instituto Federal do Ceará (IFCE)**, Brazil, with an international academic background completed through the BRAFITEC exchange program at **École nationale supérieure d'ingénieurs de Caen (ENSICAEN)** in France, focusing on Artificial Intelligence and Cybersecurity.
 
-I am driven by a constant desire to learn and innovate, with a proven ability to tackle complex challenges and deliver robust software solutions. My project experience spans embedded systems, mobile application development, game development, and AI-driven applications.
+Currently concluding my B.S. degree in Fortaleza, my recent work spans:
+* **Academic Research & Graduate Coursework:** Completed Master's-level studies in **Statistical Pattern Recognition** (deriving classifiers such as Gaussian MLE, Naive Bayes, LDA/QDA from scratch) and researching **Edge AI / TinyML**, specifically adapting algorithms like gradient descent to resource-constrained microcontrollers.
+* **Applied AI in Industry (Orange - France):** Previously worked in the Architecture for Networks and Cloud team on **Audio AI agents**, building benchmarking pipelines, and evaluating real-world model latency and inference efficiency.
+* **Enterprise & Laboratory Engineering:** Production-grade software development across private GitLab pipelines involving **Qt (C++ / Python / Qt Quick / QML)**, **Vue.js**, **Flutter**, **MQTT messaging**, and hardware protocols.
+* **Open Source & Web Apps:** Building modular full-stack web applications using **React, TypeScript, and modern frontend architecture patterns**.
 
-### Core Competencies
-
-| Category          | Skills                                                                                                |
-|-------------------|-------------------------------------------------------------------------------------------------------|
-| **Programming**   | C++, C, Python (Tkinter, Flask), Java, HTML, CSS, JavaScript, PHP, Dart, SQL, GDScript                 |
-| **Frameworks**    | Qt (QWidgets, QTests, QMake, QML), Flutter, Godot Engine                                              |
-| **Tools & Platforms** | Git, GitKraken, Proteus (PIC18), plantUML, LaTeX, CI/CD (GitLab), Figma (basics), Android Studio       |
-| **Methodologies** | SCRUM, Clean Code, Design Patterns                                                                    |
-| **AI & Data**     | Reinforcement Learning (Q-learning), Reflex Agents, Data Mining, Cryptography, AI Security Introduction |
-| **Languages**     | Portuguese (Native), English (Fluent - B2 TOEIC), French (Advanced Intermediate - B2 TCF TP)          |
+> 💡 *Note on Repositories:* A significant portion of my professional work with Qt, internal C++ libraries, MQTT systems, and enterprise tools resides in private company GitLab repositories. My public GitHub showcases personal research, academic projects, algorithms built from scratch, and collaborative web developments.
 
 ---
 
-Feel free to explore my repositories and connect with me for collaborations or discussions on exciting tech opportunities!
+### 🛠️ Core Competencies & Tech Stack
+
+| Category | Technologies & Skills |
+| :--- | :--- |
+| **Languages** | C++, C, Python, TypeScript, JavaScript, Dart, SQL, Shell Script |
+| **AI, Edge AI & Data** | Statistical Pattern Recognition, Optimization on Embedded Targets (Gradient Descent on MCUs), Audio AI Agents, Model Benchmarking & Profiling, LangChain, NumPy, PyTorch, Scikit-Learn |
+| **Frameworks & UI** | Qt (Qt Creator, Qt Quick / QML, QWidgets), React, Vue.js, Flutter, Flask |
+| **Protocols & IoT** | MQTT, CoAP, RESTful APIs, UART, I2C, SPI |
+| **DevOps & Embedded Tools** | Git, GitLab CI/CD, Linux, Docker, STM32CubeIDE, Proteus, LaTeX |
+| **Languages** | **Portuguese** (Native) • **French** (B2 TCF) • **English** (Advanced, TOEIC 925/990) • **Italian** (B1) |
 
 ---
 
-### GitHub Stats
+### 📊 GitHub Activity
 
-![Raquel's GitHub stats](https://github-readme-stats.vercel.app/api?username=raquelmcoelho&show_icons=true&bg_color=00000000)  
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=raquelmcoelho&layout=donut&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
-![GitHub Snake Light](https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-![GitHub Snake Dark](https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raquelmcoelho&theme=transparent&hide_border=true" alt="GitHub Streak" height="160" />
+</p>
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake.svg#gh-light-mode-only" alt="GitHub Snake Light" />
+  <img src="https://raw.githubusercontent.com/raquelmcoelho/raquelmcoelho/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="GitHub Snake Dark" />
+</p>
